@@ -1,0 +1,17 @@
+{
+  "day": {
+    "price": 15000,
+    "stock": [],
+    "label": "Key Ngày"
+  },
+  "week": {
+    "price": 70000,
+    "stock": [],
+    "label": "Key Tuần"
+  },
+  "month": {
+    "price": 150000,
+    "stock": [],
+    "label": "Key Tháng"
+  }
+}
